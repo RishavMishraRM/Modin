@@ -1,3 +1,3 @@
 # Modin
 
-<img src= "MODIN.png">
+<img src= "MODIN.png" background="white">
